@@ -1,0 +1,1 @@
+[17-Dec-2021 08:27:06 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Login has a deprecated constructor in /home/tegf2932/public_html/blogtlc/application/modules/login/controllers/Login.php on line 4
